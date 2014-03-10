@@ -1,0 +1,207 @@
+TAKDraw
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKDraw-Prefix-dzovuncjagrcpchgeuykpmpvtvpe/AKDraw-Prefix.pch.pch AKDraw/AKDraw-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.o /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/libAKDraw.a normal x86_64
+cPBXCp AKDraw/AKDraw.h build/Debug-iphonesimulator/include/AKDraw/AKDraw.h
+cCpHeader AKDraw/AKDraw.h build/Debug-iphonesimulator/Headers/AKDraw.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000528142A30000000000000176
+t1384202915
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005268430D00000000000003B5
+t1382564621
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005268431700000000000001A0
+t1382564631
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005268431C000000000088C680
+t1382564636
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000526843240000000001DB9910
+t1382564644
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005268437F0000000000000AC9
+t1382564735
+s2761
+
+N/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw-Prefix.pch
+c00000000531E4BE000000000000000B6
+t1394494432
+s182
+
+N/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h
+c00000000531E4C610000000000000DE3
+t1394494561
+s3555
+
+N/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m
+c00000000531E4E440000000000002A46
+t1394495044
+s10822
+
+N/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.LinkFileList
+c00000000531E4E6D000000000000007F
+t1394495085
+s127
+
+N/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.o
+t1394495088
+s46216
+
+N/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/Headers/AKDraw.h
+t2
+s0
+
+N/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/include/AKDraw/AKDraw.h
+t2
+s0
+
+N/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/libAKDraw.a
+t2
+s0
+
+N/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKDraw-Prefix-dzovuncjagrcpchgeuykpmpvtvpe/AKDraw-Prefix.pch.pch
+t1394495087
+s107644
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5e828bed85ceb841^809e9aed85ceb841^---0#1#1#--18"Check dependencies36"1FDA1AB1-2A79-4BDF-8FD5-AACD7800A77F-
+
+CCompileC build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.o /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416187887.908376
+e416187888.644057
+r1
+xCompileC
+xbuild/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.o
+x/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m
+d/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h
+o/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:50:75: warning: 'CGTextEncoding' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]
+o- (void)setFontWithName:(char *)fontName size:(CGFloat)fontSize encoding:(CGTextEncoding)encoding
+o                                                                          ^
+oIn module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:
+oIn module 'CoreGraphics' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:55:29: note: 'CGTextEncoding' declared here
+otypedef enum CGTextEncoding CGTextEncoding
+o                            ^
+o/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:52:5: warning: 'CGContextSelectFont' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]
+o    CGContextSelectFont(context_, fontName, fontSize, encoding);
+o    ^
+oIn module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:
+oIn module 'CoreGraphics' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:988:16: note: 'CGContextSelectFont' declared here
+oCG_EXTERN void CGContextSelectFont(CGContextRef c, const char *name,
+o               ^
+o/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:57:5: warning: 'CGContextSelectFont' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]
+o    CGContextSelectFont(context_, (char *)[[font fontName] UTF8String], [font pointSize], kCGEncodingMacRoman);
+o    ^
+oIn module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:
+oIn module 'CoreGraphics' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:988:16: note: 'CGContextSelectFont' declared here
+oCG_EXTERN void CGContextSelectFont(CGContextRef c, const char *name,
+o               ^
+o/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:252:10: warning: 'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes: [-Wdeprecated-declarations]
+o    [str drawAtPoint:CGPointMake(x, y) withFont:font];
+o         ^
+oIn module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:63:1: note: method 'drawAtPoint:withFont:' declared here
+o- (CGSize)drawAtPoint:(CGPoint)point withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawAtPoint:withAttributes:");
+o^
+o/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:262:10: warning: 'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes: [-Wdeprecated-declarations]
+o    [str drawAtPoint:CGPointMake(0, 0) withFont:font];
+o         ^
+oIn module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:63:1: note: method 'drawAtPoint:withFont:' declared here
+o- (CGSize)drawAtPoint:(CGPoint)point withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawAtPoint:withAttributes:");
+o^
+o/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:278:10: warning: 'drawInRect:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawInRect:withAttributes: [-Wdeprecated-declarations]
+o    [str drawInRect:frame withFont:font];
+o         ^
+oIn module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:73:1: note: method 'drawInRect:withFont:' declared here
+o- (CGSize)drawInRect:(CGRect)rect withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawInRect:withAttributes:");
+o^
+o/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:284:10: warning: 'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes: [-Wdeprecated-declarations]
+o    [str drawAtPoint:CGPointMake(x, y) withFont:[UIFont systemFontOfSize:size]];
+o         ^
+oIn module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:63:1: note: method 'drawAtPoint:withFont:' declared here
+o- (CGSize)drawAtPoint:(CGPoint)point withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawAtPoint:withAttributes:");
+o^
+o/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:287:10: warning: 'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes: [-Wdeprecated-declarations]
+o    [str drawAtPoint:CGPointMake(x, y) withFont:[UIFont systemFontOfSize:size]];
+o         ^
+oIn module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:63:1: note: method 'drawAtPoint:withFont:' declared here
+o- (CGSize)drawAtPoint:(CGPoint)point withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawAtPoint:withAttributes:");
+o^
+o8 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m179"CompileC build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.o AKDraw/AKDraw.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere6cae8ef85ceb841^b9e0a4f085ceb841^-6485"/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:50:75: warning: 'CGTextEncoding' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]- (void)setFontWithName:(char *)fontName size:(CGFloat)fontSize encoding:(CGTextEncoding)encoding                                                                          ^In module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:In module 'CoreGraphics' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:55:29: note: 'CGTextEncoding' declared heretypedef enum CGTextEncoding CGTextEncoding                            ^/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:52:5: warning: 'CGContextSelectFont' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]    CGContextSelectFont(context_, fontName, fontSize, encoding);    ^In module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:In module 'CoreGraphics' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:988:16: note: 'CGContextSelectFont' declared hereCG_EXTERN void CGContextSelectFont(CGContextRef c, const char *name,               ^/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:57:5: warning: 'CGContextSelectFont' is deprecated: first deprecated in iOS 7.0 [-Wdeprecated-declarations]    CGContextSelectFont(context_, (char *)[[font fontName] UTF8String], [font pointSize], kCGEncodingMacRoman);    ^In module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:In module 'CoreGraphics' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:8:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:988:16: note: 'CGContextSelectFont' declared hereCG_EXTERN void CGContextSelectFont(CGContextRef c, const char *name,               ^/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:252:10: warning: 'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes: [-Wdeprecated-declarations]    [str drawAtPoint:CGPointMake(x, y) withFont:font];         ^In module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:63:1: note: method 'drawAtPoint:withFont:' declared here- (CGSize)drawAtPoint:(CGPoint)point withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawAtPoint:withAttributes:");^/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:262:10: warning: 'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes: [-Wdeprecated-declarations]    [str drawAtPoint:CGPointMake(0, 0) withFont:font];         ^In module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:63:1: note: method 'drawAtPoint:withFont:' declared here- (CGSize)drawAtPoint:(CGPoint)point withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawAtPoint:withAttributes:");^/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:278:10: warning: 'drawInRect:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawInRect:withAttributes: [-Wdeprecated-declarations]    [str drawInRect:frame withFont:font];         ^In module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:73:1: note: method 'drawInRect:withFont:' declared here- (CGSize)drawInRect:(CGRect)rect withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawInRect:withAttributes:");^/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:284:10: warning: 'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes: [-Wdeprecated-declarations]    [str drawAtPoint:CGPointMake(x, y) withFont:[UIFont systemFontOfSize:size]];         ^In module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:63:1: note: method 'drawAtPoint:withFont:' declared here- (CGSize)drawAtPoint:(CGPoint)point withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawAtPoint:withAttributes:");^/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m:287:10: warning: 'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes: [-Wdeprecated-declarations]    [str drawAtPoint:CGPointMake(x, y) withFont:[UIFont systemFontOfSize:size]];         ^In module 'UIKit' imported from /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:63:1: note: method 'drawAtPoint:withFont:' declared here- (CGSize)drawAtPoint:(CGPoint)point withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawAtPoint:withAttributes:");^8 warnings generated.8(36%IDEClangDiagnosticActivityLogMessage2@59"'CGTextEncoding' is deprecated: first deprecated in iOS 7.0-416187888#18446744073709551615#0#1(2@30"'CGTextEncoding' declared here-416187888#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h0000000000000000^54#28#54#28#1200#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m0000000000000000^49#74#49#74#1268#0#12"Deprecations--2@64"'CGContextSelectFont' is deprecated: first deprecated in iOS 7.0-416187888#18446744073709551615#0#1(2@35"'CGContextSelectFont' declared here-416187888#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h0000000000000000^987#15#987#15#40064#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m0000000000000000^51#4#51#4#1298#0#12"Deprecations--2@64"'CGContextSelectFont' is deprecated: first deprecated in iOS 7.0-416187888#18446744073709551615#0#1(2@35"'CGContextSelectFont' declared here-416187888#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h0000000000000000^987#15#987#15#40064#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m0000000000000000^56#4#56#4#1399#0#12"Deprecations--2@101"'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes:-416187888#18446744073709551615#0#1(2@44"Method 'drawAtPoint:withFont:' declared here-416187888#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^62#0#62#0#3492#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m0000000000000000^251#9#251#9#8664#0#12"Deprecations--2@101"'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes:-416187888#18446744073709551615#0#1(2@44"Method 'drawAtPoint:withFont:' declared here-416187888#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^62#0#62#0#3492#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m0000000000000000^261#9#261#9#8967#0#12"Deprecations--2@99"'drawInRect:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawInRect:withAttributes:-416187888#18446744073709551615#0#1(2@43"Method 'drawInRect:withFont:' declared here-416187888#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^72#0#72#0#4699#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m0000000000000000^277#9#277#9#9394#0#12"Deprecations--2@101"'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes:-416187888#18446744073709551615#0#1(2@44"Method 'drawAtPoint:withFont:' declared here-416187888#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^62#0#62#0#3492#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m0000000000000000^283#9#283#9#9676#0#12"Deprecations--2@101"'drawAtPoint:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawAtPoint:withAttributes:-416187888#18446744073709551615#0#1(2@44"Method 'drawAtPoint:withFont:' declared here-416187888#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^62#0#62#0#3492#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m0000000000000000^286#9#286#9#9889#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@64"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m0000000000000000^4281"CompileC build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.o AKDraw/AKDraw.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/Desktop/Dev/iOS/sample/AKDraw    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/AKDraw-generated-files.hmap -I/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/AKDraw-own-target-headers.hmap -I/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/AKDraw-all-target-headers.hmap -iquote /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/AKDraw-project-headers.hmap -I/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/DerivedSources/x86_64 -I/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/DerivedSources -F/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKDraw-Prefix-dzovuncjagrcpchgeuykpmpvtvpe/AKDraw-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.d --serialize-diagnostics /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.dia -c /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.m -o /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.o36"C5A2A23A-5010-47D2-91D1-96EDEAE4FBDD-
+bBDDF7F60-A9D0-4B92-BEF7-2325A2094459
+
+CCpHeader AKDraw/AKDraw.h build/Debug-iphonesimulator/Headers/AKDraw.h
+s416187888.690824
+e416187888.692290
+r1
+xCpHeader
+xAKDraw/AKDraw.h
+xbuild/Debug-iphonesimulator/Headers/AKDraw.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/Debug-iphonesimulator/Headers/AKDraw.h69"CpHeader AKDraw/AKDraw.h build/Debug-iphonesimulator/Headers/AKDraw.hdc0eb1f085ceb841^823ab1f085ceb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/Headers/AKDraw.h00345c60ddffdf42^1245"CpHeader AKDraw/AKDraw.h build/Debug-iphonesimulator/Headers/AKDraw.h    cd /Users/yagi/Desktop/Dev/iOS/sample/AKDraw    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/Headers36"98AB2FF7-31D6-4EB6-8CD7-193B6F998BCC-
+bBDDF7F60-A9D0-4B92-BEF7-2325A2094459
+
+CLibtool /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/libAKDraw.a normal x86_64
+s416187888.644964
+e416187888.688265
+r1
+xLibtool
+x/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/libAKDraw.a
+xnormal
+xx86_64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Libtool build/Debug-iphonesimulator/libAKDraw.a normal x86_6461"Libtool build/Debug-iphonesimulator/libAKDraw.a normal x86_648159a5f085ceb841^9337b0f085ceb841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1634"Libtool build/Debug-iphonesimulator/libAKDraw.a normal x86_64    cd /Users/yagi/Desktop/Dev/iOS/sample/AKDraw    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator -filelist /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/Objects-normal/x86_64/AKDraw.LinkFileList -ObjC -framework UIKit -framework Foundation -o /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/libAKDraw.a36"EAE552A5-ACDF-447D-8522-25FC40ED8EBF-
+bBDDF7F60-A9D0-4B92-BEF7-2325A2094459
+
+CPBXCp AKDraw/AKDraw.h build/Debug-iphonesimulator/include/AKDraw/AKDraw.h
+s416187888.688790
+e416187888.690493
+r1
+xPBXCp
+xAKDraw/AKDraw.h
+xbuild/Debug-iphonesimulator/include/AKDraw/AKDraw.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/include/AKDraw/AKDraw.h73"PBXCp AKDraw/AKDraw.h build/Debug-iphonesimulator/include/AKDraw/AKDraw.h008fb0f085ceb841^cec4b0f085ceb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/include/AKDraw/AKDraw.h00345c60ddffdf42^1256"PBXCp AKDraw/AKDraw.h build/Debug-iphonesimulator/include/AKDraw/AKDraw.h    cd /Users/yagi/Desktop/Dev/iOS/sample/AKDraw    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw.h /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/include/AKDraw36"DA6D02B3-9EF4-44AB-84E3-8D76A6847931-
+bBDDF7F60-A9D0-4B92-BEF7-2325A2094459
+
+CProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKDraw-Prefix-dzovuncjagrcpchgeuykpmpvtvpe/AKDraw-Prefix.pch.pch AKDraw/AKDraw-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416187885.582865
+e416187887.907247
+r1
+xProcessPCH
+x/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKDraw-Prefix-dzovuncjagrcpchgeuykpmpvtvpe/AKDraw-Prefix.pch.pch
+xAKDraw/AKDraw-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile AKDraw/AKDraw-Prefix.pch307"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKDraw-Prefix-dzovuncjagrcpchgeuykpmpvtvpe/AKDraw-Prefix.pch.pch AKDraw/AKDraw-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerde9195ed85ceb841^7841e8ef85ceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw-Prefix.pch0000000000000000^4439"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKDraw-Prefix-dzovuncjagrcpchgeuykpmpvtvpe/AKDraw-Prefix.pch.pch AKDraw/AKDraw-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/Desktop/Dev/iOS/sample/AKDraw    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/AKDraw-generated-files.hmap -I/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/AKDraw-own-target-headers.hmap -I/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/AKDraw-all-target-headers.hmap -iquote /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/AKDraw-project-headers.hmap -I/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/DerivedSources/x86_64 -I/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/AKDraw.build/Debug-iphonesimulator/AKDraw.build/DerivedSources -F/Users/yagi/Desktop/Dev/iOS/sample/AKDraw/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKDraw-Prefix-dzovuncjagrcpchgeuykpmpvtvpe/AKDraw-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKDraw-Prefix-dzovuncjagrcpchgeuykpmpvtvpe/AKDraw-Prefix.pch.d -c /Users/yagi/Desktop/Dev/iOS/sample/AKDraw/AKDraw/AKDraw-Prefix.pch -o /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKDraw-Prefix-dzovuncjagrcpchgeuykpmpvtvpe/AKDraw-Prefix.pch.pch36"BB0D0319-1F4E-46C1-AC3A-AE77457FE805-
+bBDDF7F60-A9D0-4B92-BEF7-2325A2094459
+

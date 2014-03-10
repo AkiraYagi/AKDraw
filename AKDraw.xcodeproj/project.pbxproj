@@ -1,0 +1,508 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		04279C7818CE84C10008E414 /* AKDraw-framework */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 04279C7918CE84C10008E414 /* Build configuration list for PBXAggregateTarget "AKDraw-framework" */;
+			buildPhases = (
+				04279C7C18CE852E0008E414 /* ShellScript */,
+			);
+			dependencies = (
+			);
+			name = "AKDraw-framework";
+			productName = "AKDraw-framework";
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		04279C4D18CE83600008E414 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04279C4C18CE83600008E414 /* Foundation.framework */; };
+		04279C5218CE83600008E414 /* AKDraw.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 04279C5118CE83600008E414 /* AKDraw.h */; };
+		04279C5418CE83600008E414 /* AKDraw.m in Sources */ = {isa = PBXBuildFile; fileRef = 04279C5318CE83600008E414 /* AKDraw.m */; };
+		04279C5B18CE83600008E414 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04279C5A18CE83600008E414 /* XCTest.framework */; };
+		04279C5C18CE83600008E414 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04279C4C18CE83600008E414 /* Foundation.framework */; };
+		04279C5E18CE83600008E414 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04279C5D18CE83600008E414 /* UIKit.framework */; };
+		04279C6118CE83600008E414 /* libAKDraw.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 04279C4918CE83600008E414 /* libAKDraw.a */; };
+		04279C6718CE83600008E414 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 04279C6518CE83600008E414 /* InfoPlist.strings */; };
+		04279C6918CE83600008E414 /* AKDrawTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04279C6818CE83600008E414 /* AKDrawTests.m */; };
+		04279C7318CE83B40008E414 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04279C7218CE83B40008E414 /* UIKit.framework */; };
+		04279C7E18CE85610008E414 /* AKDraw.h in Headers */ = {isa = PBXBuildFile; fileRef = 04279C5118CE83600008E414 /* AKDraw.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		04279C5F18CE83600008E414 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04279C4118CE83600008E414 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04279C4818CE83600008E414;
+			remoteInfo = AKDraw;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		04279C4718CE83600008E414 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+				04279C5218CE83600008E414 /* AKDraw.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		04279C4918CE83600008E414 /* libAKDraw.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libAKDraw.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		04279C4C18CE83600008E414 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		04279C5018CE83600008E414 /* AKDraw-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AKDraw-Prefix.pch"; sourceTree = "<group>"; };
+		04279C5118CE83600008E414 /* AKDraw.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AKDraw.h; sourceTree = "<group>"; };
+		04279C5318CE83600008E414 /* AKDraw.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AKDraw.m; sourceTree = "<group>"; };
+		04279C5918CE83600008E414 /* AKDrawTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AKDrawTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04279C5A18CE83600008E414 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		04279C5D18CE83600008E414 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		04279C6418CE83600008E414 /* AKDrawTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AKDrawTests-Info.plist"; sourceTree = "<group>"; };
+		04279C6618CE83600008E414 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		04279C6818CE83600008E414 /* AKDrawTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AKDrawTests.m; sourceTree = "<group>"; };
+		04279C7218CE83B40008E414 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		04279C7418CE83BD0008E414 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		04279C7718CE843B0008E414 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04279C4618CE83600008E414 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04279C7318CE83B40008E414 /* UIKit.framework in Frameworks */,
+				04279C4D18CE83600008E414 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04279C5618CE83600008E414 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04279C5B18CE83600008E414 /* XCTest.framework in Frameworks */,
+				04279C5E18CE83600008E414 /* UIKit.framework in Frameworks */,
+				04279C5C18CE83600008E414 /* Foundation.framework in Frameworks */,
+				04279C6118CE83600008E414 /* libAKDraw.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04279C4018CE83600008E414 = {
+			isa = PBXGroup;
+			children = (
+				04279C4E18CE83600008E414 /* AKDraw */,
+				04279C6218CE83600008E414 /* AKDrawTests */,
+				04279C4B18CE83600008E414 /* Frameworks */,
+				04279C4A18CE83600008E414 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04279C4A18CE83600008E414 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04279C4918CE83600008E414 /* libAKDraw.a */,
+				04279C5918CE83600008E414 /* AKDrawTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04279C4B18CE83600008E414 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				04279C7418CE83BD0008E414 /* CoreGraphics.framework */,
+				04279C7218CE83B40008E414 /* UIKit.framework */,
+				04279C4C18CE83600008E414 /* Foundation.framework */,
+				04279C5A18CE83600008E414 /* XCTest.framework */,
+				04279C5D18CE83600008E414 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		04279C4E18CE83600008E414 /* AKDraw */ = {
+			isa = PBXGroup;
+			children = (
+				04279C5118CE83600008E414 /* AKDraw.h */,
+				04279C5318CE83600008E414 /* AKDraw.m */,
+				04279C7618CE841D0008E414 /* Resources */,
+				04279C4F18CE83600008E414 /* Supporting Files */,
+			);
+			path = AKDraw;
+			sourceTree = "<group>";
+		};
+		04279C4F18CE83600008E414 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				04279C5018CE83600008E414 /* AKDraw-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		04279C6218CE83600008E414 /* AKDrawTests */ = {
+			isa = PBXGroup;
+			children = (
+				04279C6818CE83600008E414 /* AKDrawTests.m */,
+				04279C6318CE83600008E414 /* Supporting Files */,
+			);
+			path = AKDrawTests;
+			sourceTree = "<group>";
+		};
+		04279C6318CE83600008E414 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				04279C6418CE83600008E414 /* AKDrawTests-Info.plist */,
+				04279C6518CE83600008E414 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		04279C7618CE841D0008E414 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				04279C7718CE843B0008E414 /* Info.plist */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		04279C7D18CE85550008E414 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04279C7E18CE85610008E414 /* AKDraw.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		04279C4818CE83600008E414 /* AKDraw */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04279C6C18CE83600008E414 /* Build configuration list for PBXNativeTarget "AKDraw" */;
+			buildPhases = (
+				04279C4518CE83600008E414 /* Sources */,
+				04279C4618CE83600008E414 /* Frameworks */,
+				04279C4718CE83600008E414 /* CopyFiles */,
+				04279C7D18CE85550008E414 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AKDraw;
+			productName = AKDraw;
+			productReference = 04279C4918CE83600008E414 /* libAKDraw.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		04279C5818CE83600008E414 /* AKDrawTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04279C6F18CE83600008E414 /* Build configuration list for PBXNativeTarget "AKDrawTests" */;
+			buildPhases = (
+				04279C5518CE83600008E414 /* Sources */,
+				04279C5618CE83600008E414 /* Frameworks */,
+				04279C5718CE83600008E414 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04279C6018CE83600008E414 /* PBXTargetDependency */,
+			);
+			name = AKDrawTests;
+			productName = AKDrawTests;
+			productReference = 04279C5918CE83600008E414 /* AKDrawTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04279C4118CE83600008E414 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = AkiraYagi;
+			};
+			buildConfigurationList = 04279C4418CE83600008E414 /* Build configuration list for PBXProject "AKDraw" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 04279C4018CE83600008E414;
+			productRefGroup = 04279C4A18CE83600008E414 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04279C4818CE83600008E414 /* AKDraw */,
+				04279C5818CE83600008E414 /* AKDrawTests */,
+				04279C7818CE84C10008E414 /* AKDraw-framework */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04279C5718CE83600008E414 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04279C6718CE83600008E414 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		04279C7C18CE852E0008E414 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "ASTERISK=*\n# Environment Variables\nFRAMEWORK_NAME=${PROJECT_NAME}\nFRAMEWORK_VERSION=A\nFRAMEWORK_VERSION_NUMBER=1.0\nFRAMEWORK_BUILD_PATH=\"${SRCROOT}/build/${CONFIGURATION}-framework\"\nFRAMEWORK_DIR=\"${FRAMEWORK_BUILD_PATH}/${FRAMEWORK_NAME}.framework\"\nFRAMEWORK_PACKAGE_NAME=\"${FRAMEWORK_NAME}.${FRAMEWORK_VERSION_NUMBER}.zip\"\n\n# Clean directories\nrm -rf \"${FRAMEWORK_BUILD_PATH}\"\n\n# Build simulator and device binaries.\nxcodebuild -project ${PROJECT_NAME}.xcodeproj -sdk iphonesimulator${IPHONEOS_DEPLOYMENT_TARGET} -target \"${PROJECT_NAME}\" -configuration ${CONFIGURATION} clean build\nxcodebuild -project ${PROJECT_NAME}.xcodeproj -sdk iphoneos${IPHONEOS_DEPLOYMENT_TARGET} -target \"${PROJECT_NAME}\" -configuration ${CONFIGURATION} clean build\n\n# create framework directories.\nmkdir -p ${FRAMEWORK_DIR}/Resources\nmkdir -p ${FRAMEWORK_DIR}/Headers\n\n# create the universal library\nlipo ${SRCROOT}/build/${CONFIGURATION}-iphoneos/lib${FRAMEWORK_NAME}.a ${SRCROOT}/build/${CONFIGURATION}-iphonesimulator/lib${FRAMEWORK_NAME}.a -create -output ${FRAMEWORK_DIR}/${FRAMEWORK_NAME}\n\n# copy files\ncp ${SRCROOT}/build/${CONFIGURATION}-iphoneos/Headers/${ASTERISK}.h ${FRAMEWORK_DIR}/Headers/\ncp ${SRCROOT}/${PROJECT_NAME}/Resources/Info.plist ${FRAMEWORK_DIR}/Resources\n\n# zip (配布用に QRTechnicals.framework ディレクトリをZIP圧縮するだけなので、不要なら以下はコメントアウト)\ncd ${FRAMEWORK_BUILD_PATH}\nzip -ry ${FRAMEWORK_PACKAGE_NAME} $(basename $FRAMEWORK_DIR)";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04279C4518CE83600008E414 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04279C5418CE83600008E414 /* AKDraw.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04279C5518CE83600008E414 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04279C6918CE83600008E414 /* AKDrawTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		04279C6018CE83600008E414 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04279C4818CE83600008E414 /* AKDraw */;
+			targetProxy = 04279C5F18CE83600008E414 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		04279C6518CE83600008E414 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04279C6618CE83600008E414 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		04279C6A18CE83600008E414 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		04279C6B18CE83600008E414 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04279C6D18CE83600008E414 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/AKDraw.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AKDraw/AKDraw-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = /Headers;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		04279C6E18CE83600008E414 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/AKDraw.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AKDraw/AKDraw-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = /Headers;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		04279C7018CE83600008E414 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AKDraw/AKDraw-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "AKDrawTests/AKDrawTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		04279C7118CE83600008E414 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AKDraw/AKDraw-Prefix.pch";
+				INFOPLIST_FILE = "AKDrawTests/AKDrawTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+		04279C7A18CE84C10008E414 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		04279C7B18CE84C10008E414 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04279C4418CE83600008E414 /* Build configuration list for PBXProject "AKDraw" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04279C6A18CE83600008E414 /* Debug */,
+				04279C6B18CE83600008E414 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04279C6C18CE83600008E414 /* Build configuration list for PBXNativeTarget "AKDraw" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04279C6D18CE83600008E414 /* Debug */,
+				04279C6E18CE83600008E414 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		04279C6F18CE83600008E414 /* Build configuration list for PBXNativeTarget "AKDrawTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04279C7018CE83600008E414 /* Debug */,
+				04279C7118CE83600008E414 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		04279C7918CE84C10008E414 /* Build configuration list for PBXAggregateTarget "AKDraw-framework" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04279C7A18CE84C10008E414 /* Debug */,
+				04279C7B18CE84C10008E414 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04279C4118CE83600008E414 /* Project object */;
+}
